@@ -1,0 +1,13 @@
+# qa?
+
+name: staging
+on:
+  push:
+    branches:
+      - staging
+# jobs:
+  # ...
+
+# run tests
+
+# clasp push ...

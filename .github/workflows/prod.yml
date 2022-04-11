@@ -1,0 +1,12 @@
+# ...?
+
+name: prod
+on:
+  push:
+    branches:
+      - prod
+# jobs:
+  # ...
+
+# clasp deploy
+

@@ -2,3 +2,6 @@
 
 
 
+clasp create --rootDir ./src
+
+
